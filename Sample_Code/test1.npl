@@ -1,0 +1,15 @@
+begin
+	you_are_great
+    let a = 5
+    let b = 10
+	a
+	b
+    sum(3,b)
+    sum(b,a)
+    sum(a,b)
+    avg(3,6)
+	avg(1,2,3,4,5,6,7,8,9)
+	3*554*6
+	34632/5
+	helloPranjal
+end
